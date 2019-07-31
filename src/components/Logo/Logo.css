@@ -1,0 +1,14 @@
+.Tilt {
+  background: linear-gradient(75deg, rgb(128, 255, 128), rgb(255, 165, 74));
+}
+
+.Tilt-inner {
+  height: inherit;
+  width: inherit;
+}
+
+img {
+  height: 80%;
+  width: 80%;
+  padding-top: 10px;
+}
